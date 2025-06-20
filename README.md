@@ -1,0 +1,3 @@
+Blockchain-Based-Supply-Chain-Management-A-Focus-on-Data-Integrity-and-Full-Traceability
+This is solidty codes for research project into the application of Blockchian technology into the suppliy chain to addreess the inherent traditional challenges with supply chain operation. however, this project focuses on data intergrity and ensuring full traceability solutions.
+Apart from the focus of the research, data provacy and security, automation and the full CIA triad a inculcated in this project.
